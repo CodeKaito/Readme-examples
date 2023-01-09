@@ -59,4 +59,6 @@ or
 bundle install
 ```
 
+<p align="center">Love the project? Please consider <a href="https://www.paypal.me/carljeromee">donating</a> to help it improve!</p>
+
 
