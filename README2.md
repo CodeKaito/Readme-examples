@@ -63,7 +63,7 @@
   </p>
 </p>
 
-<p align="center">Love the project? Please consider <a href="[https://paypal.me/carljeromee?country.x=IT&locale.x=it_IT]">donating</a> to help it improve!</p>
+<p align="center">Love the project? Please consider <a href="https://www.paypal.me/carljeromee">donating</a> to help it improve!</p>
 
 </p>
 
